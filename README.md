@@ -1,4 +1,7 @@
 
+This repository is for tracking and addressing GitHub issues for AzureDevops Learn content:
+https://docs.microsoft.com/azure/devops/learn
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
